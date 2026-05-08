@@ -1,189 +1,244 @@
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   ██╗    ██╗ █████╗ ██╗  ██╗██╗███████╗ █████╗                     ║
-║   ██║    ██║██╔══██╗██║ ██╔╝██║██╔════╝██╔══██╗                    ║
-║   ██║ █╗ ██║███████║█████╔╝ ██║███████╗███████║                    ║
-║   ██║███╗██║██╔══██║██╔═██╗ ██║╚════██║██╔══██║                    ║
-║   ╚███╔███╔╝██║  ██║██║  ██╗██║███████║██║  ██║                    ║
-║    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝                    ║
-║                                                                    ║
-║              Data Scientist • AI/ML Engineer • Researcher          ║
-║        Statistician • Monitoring & Evaluation Specialist           ║
-║                                                                    ║
-╚══════════════════════════════════════════════════════════════════════╝
+```txt id="wakisa-advanced-github-profile"
+# 👨‍💻 Wakisa Chihana
+### Data Scientist (BSc) • Statistician • AI/ML Engineer • Researcher • Monitoring & Evaluation Specialist • IT Officer
 
+<div align="center">
 
-👋 Hello World! I'm Wakisa Chihana
+Building intelligent systems, scalable software, and AI-powered solutions for real-world impact 🌍
 
-Welcome to my digital workspace — a place where Artificial Intelligence,
-Data Science, and Software Engineering intersect to create impactful,
-scalable, and intelligent solutions.
+</div>
 
-I specialize in:
-    🤖 Large Language Models (LLMs)
-    🔍 Retrieval-Augmented Generation (RAG)
-    📊 Predictive Analytics & Forecasting
-    📈 Monitoring & Evaluation Systems
-    🌐 Full-Stack Development
-    ☁️ Cloud & AI Infrastructure
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-My mission is to leverage technology and AI to solve real-world problems,
-especially in low-resource and underserved environments.
+# 👋 Hi there, I'm Wakisa Chihana!
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Welcome to my GitHub profile!  
+I’m a passionate **Data Scientist, AI/ML Engineer, Researcher, and Full-Stack Developer** with a strong foundation in statistics, machine learning, software engineering, and artificial intelligence.
 
-🚀 WHO AM I?
+My work focuses on designing and deploying intelligent systems that solve practical problems using:
+- 🤖 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 📊 Predictive Analytics
+- 📈 Monitoring & Evaluation (M&E) Systems
+- 🌐 Scalable Full-Stack Applications
+- ☁️ Cloud & Data Engineering Solutions
 
-🎓 BSc in Data Science
-📍 AI/ML Engineer & Researcher
-📍 Statistician & Data Analyst
-📍 Monitoring & Evaluation Specialist
-📍 Full-Stack Software Developer
-📍 IT Officer & Systems Builder
+I’m particularly interested in building AI systems for **low-resource environments**, educational technologies, automation platforms, and data-driven decision-making systems.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🧠 AI / MACHINE LEARNING EXPERTISE
+# 🚀 About Me
 
-╭──────────────────────────────────────────────────────────────╮
-│  🔬 LLMs & NLP                                              │
-├──────────────────────────────────────────────────────────────┤
-│  GPT • Llama • Mistral • DeepSeek • Falcon • T5 • BERT      │
-╰──────────────────────────────────────────────────────────────╯
+🎓 BSc in Data Science with expertise in:
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Statistical Analysis
+- Predictive Modeling
+- Software Engineering
 
-╭──────────────────────────────────────────────────────────────╮
-│  ⚡ Fine-Tuning & Optimization                              │
-├──────────────────────────────────────────────────────────────┤
-│  LoRA • QLoRA • PEFT • RLHF • Prompt Engineering            │
-╰──────────────────────────────────────────────────────────────╯
+🤖 AI & LLM Engineering
+- Fine-tuning and optimizing Large Language Models
+- Prompt Engineering & AI system design
+- Building Retrieval-Augmented Generation (RAG) systems
+- Embedding pipelines and vector search architectures
+- Dataset creation, cleaning, preprocessing, and annotation
+- AI evaluation, benchmarking, and model optimization
 
-╭──────────────────────────────────────────────────────────────╮
-│  🔍 Retrieval-Augmented Generation (RAG)                    │
-├──────────────────────────────────────────────────────────────┤
-│  LangChain • FAISS • ChromaDB • Weaviate                    │
-╰──────────────────────────────────────────────────────────────╯
+📊 Data Science & Analytics
+- Forecasting & time-series analysis
+- Anomaly detection systems
+- Decision-support systems
+- Monitoring & Evaluation dashboards
+- Data visualization & reporting
+- Real-time analytics systems
 
-╭──────────────────────────────────────────────────────────────╮
-│  📚 Dataset Engineering                                     │
-├──────────────────────────────────────────────────────────────┤
-│  Data Cleaning • Embeddings • Annotation • Preprocessing    │
-│  Speech-to-Text Pipelines • Tokenization                    │
-╰──────────────────────────────────────────────────────────────╯
+🌱 Current Interests
+- Multi-modal AI systems
+- AI agents & autonomous workflows
+- AI for education & healthcare
+- Scalable AI infrastructure
+- Human-centered AI applications
+- AI deployment in low-resource settings
 
-╭──────────────────────────────────────────────────────────────╮
-│  📏 Model Evaluation                                        │
-├──────────────────────────────────────────────────────────────┤
-│  BLEU • Perplexity • Bias Testing • Benchmarking            │
-╰──────────────────────────────────────────────────────────────╯
+👨‍💻 Development & Innovation
+- Building modern full-stack applications
+- Designing scalable APIs and backend systems
+- Automating workflows using AI
+- Creating intelligent business solutions
+- Open-source contribution & research collaboration
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📈 DATA SCIENCE • ANALYTICS • M&E
+# 🧠 AI / Machine Learning Stack
 
-┌──────────────────────────────────────────────────────────────┐
-│  📊 Predictive Analytics                                    │
-├──────────────────────────────────────────────────────────────┤
-│  Forecasting • Classification • Regression                  │
-│  Recommendation Systems • Decision Intelligence             │
-└──────────────────────────────────────────────────────────────┘
+## 🔬 LLMs & NLP
+• GPT  
+• Llama  
+• Mistral  
+• DeepSeek  
+• Falcon  
+• T5  
+• BERT  
 
-┌──────────────────────────────────────────────────────────────┐
-│  ⏳ Time Series Forecasting                                 │
-├──────────────────────────────────────────────────────────────┤
-│  ARIMA • Prophet • LSTMs                                    │
-└──────────────────────────────────────────────────────────────┘
+## ⚡ Fine-Tuning & Optimization
+• LoRA  
+• QLoRA  
+• PEFT  
+• RLHF  
+• Prompt Engineering  
+• Embedding Optimization  
 
-┌──────────────────────────────────────────────────────────────┐
-│  📋 Monitoring & Evaluation Systems                         │
-├──────────────────────────────────────────────────────────────┤
-│  KPI Dashboards • Real-Time Monitoring                      │
-│  Impact Assessment • Reporting Automation                   │
-└──────────────────────────────────────────────────────────────┘
+## 🔍 RAG & Vector Databases
+• LangChain  
+• FAISS  
+• ChromaDB  
+• Weaviate  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 📚 Dataset Engineering
+• Text preprocessing  
+• Data cleaning & annotation  
+• Embedding pipelines  
+• Speech-to-text datasets  
+• Tokenization & normalization  
 
-💻 SOFTWARE ENGINEERING
+## 📏 Model Evaluation
+• BLEU  
+• Perplexity  
+• Cultural bias evaluation  
+• Model benchmarking  
+• Performance optimization  
 
-🖥️ Languages
-━━━━━━━━━━━━━━━━━━
-Python • JavaScript • TypeScript • Java • PHP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🎨 Frontend
-━━━━━━━━━━━━━━━━━━
-React • Next.js • Tailwind CSS • HTML5 • CSS3
+# 📈 Data Science, Analytics & M&E
 
-⚙️ Backend
-━━━━━━━━━━━━━━━━━━
-FastAPI • Django • Flask • Laravel • .NET
+## 📊 Predictive Analytics
+• Predictive Modeling  
+• Forecasting Systems  
+• Classification & Regression  
+• Recommendation Systems  
+• Anomaly Detection  
 
-🔗 APIs & Architecture
-━━━━━━━━━━━━━━━━━━
-REST APIs • GraphQL • Microservices
+## ⏳ Time Series Forecasting
+• ARIMA  
+• Prophet  
+• LSTMs  
+• Statistical Forecasting Models  
 
-🗄️ Databases
-━━━━━━━━━━━━━━━━━━
-PostgreSQL • MongoDB • MySQL • SQLite
+## 📋 Monitoring & Evaluation (M&E)
+• Impact assessment systems  
+• Real-time monitoring dashboards  
+• KPI tracking systems  
+• Data-driven reporting tools  
+• Decision intelligence platforms  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-☁️ CLOUD • DEVOPS • DATA ENGINEERING
+# 💻 Software Engineering
 
-☁️ Cloud Platforms
-━━━━━━━━━━━━━━━━━━
-AWS • Google Cloud Platform • Microsoft Azure
+## 🖥️ Programming Languages
+• Python  
+• JavaScript  
+• TypeScript  
+• Java  
+• PHP  
 
-🚢 DevOps & Infrastructure
-━━━━━━━━━━━━━━━━━━
-Docker • Kubernetes • CI/CD Pipelines
+## 🎨 Frontend Technologies
+• React  
+• Next.js  
+• Tailwind CSS  
+• HTML5  
+• CSS3  
 
-🔄 Data Engineering
-━━━━━━━━━━━━━━━━━━
-Apache Airflow • ETL/ELT Pipelines • Workflow Automation
+## ⚙️ Backend Frameworks
+• FastAPI  
+• Django  
+• Flask  
+• Laravel  
+• .NET  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🔗 API Development
+• REST APIs  
+• GraphQL  
+• API Authentication  
+• Microservices Architecture  
 
-🎯 CURRENT FOCUS
+## 🗄️ Databases
+• PostgreSQL  
+• MongoDB  
+• MySQL  
+• SQLite  
 
-➤ Fine-tuning domain-specific LLMs
-➤ Building scalable RAG systems
-➤ AI-powered automation platforms
-➤ Intelligent analytics dashboards
-➤ AI for education & low-resource environments
-➤ Scalable backend infrastructures
-➤ Research-driven AI innovation
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ☁️ Cloud, DevOps & Data Engineering
 
-🌐 CONNECT WITH ME
+## ☁️ Cloud Platforms
+• AWS  
+• Google Cloud Platform (GCP)  
+• Microsoft Azure  
 
-🔗 LinkedIn
+## 🚢 DevOps & Infrastructure
+• Docker  
+• Kubernetes  
+• CI/CD Pipelines  
+• Linux Server Management  
+
+## 🔄 Data Engineering
+• Apache Airflow  
+• ETL/ELT Pipelines  
+• Workflow Automation  
+• Data Processing Systems  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🎯 Current Focus
+
+🚀 Fine-tuning domain-specific LLMs  
+🔍 Building advanced RAG architectures  
+🤖 AI-powered automation systems  
+📊 Intelligent analytics dashboards  
+🌍 AI for education and low-resource communities  
+⚡ Scalable backend & cloud-native systems  
+🧠 AI research & experimentation  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📊 GitHub Activity
+
+📌 Developing intelligent systems & scalable software  
+📌 Building AI-powered applications and APIs  
+📌 Researching LLM optimization and deployment strategies  
+📌 Exploring cutting-edge AI and machine learning technologies  
+📌 Contributing to innovative open-source projects  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🌐 Connect With Me
+
+🔗 LinkedIn  
 www.linkedin.com/in/wakisa-chihana
 
-🌍 Portfolio
+🌍 Portfolio  
 https://wakisa-chihana.vercel.app/
 
-📧 Email
+📧 Email  
 wakisachihana422@gmail.com
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⚡ FUN FACT
+# ⚡ Fun Fact
 
-I enjoy transforming complex problems into intelligent systems
-that improve efficiency, accessibility, and decision-making.
+I enjoy transforming complex real-world problems into intelligent AI-driven systems that improve efficiency, decision-making, and accessibility.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⭐ MOTTO
+# ⭐ Motto
 
 "Building intelligent systems that create meaningful real-world impact."
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-#AI #MachineLearning #LLMs #RAG #DataScience #SoftwareEngineering
-#DeepLearning #Python #OpenSource #CloudComputing #Research
-
 <!---
-wakisa-chihana/wakisa-chihana is a ✨ special ✨ repository because its
-README.md appears on your GitHub profile.
+wakisa-chihana/wakisa-chihana is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
+```
