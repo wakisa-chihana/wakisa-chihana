@@ -39,7 +39,7 @@ My expertise spans across:
 - 🌐 Full-Stack AI-Powered Development
 - ☁️ Cloud & AI Infrastructure
 
-I enjoy developing scalable AI-powered applications — especially for **low-resource environments** — and turning complex data into actionable, decision-ready insights.
+I enjoy developing scalable AI powered applications especially for **low-resource environments**  and turning complex data into actionable, decision-ready insights.
 
 ---
 
