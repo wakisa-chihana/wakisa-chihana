@@ -5,7 +5,7 @@
 ### `Data Scientist (BSc)` • `Statistician` • `AI/ML Engineer` • `Researcher` • `M&E Specialist` • `IT Officer`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%26+LLM+Researcher;Data+Scientist+%26+Statistician;Monitoring+%26+Evaluation+Specialist;Full-Stack+Developer;Statistical+Modelling+%26+Inference;Time+Series+%26+Forecasting+Expert;RAG+Pipelines+%26+Vector+Retrieval" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+LLM+Researcher;Agentic+AI+%26+MCP+Integrations;Data+Scientist+%26+Statistician;Monitoring+%26+Evaluation+Specialist;Full-Stack+Developer;Causal+Inference+%26+Forecasting;Production+RAG+%26+LLM+Evals" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,63 +27,75 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist, Statistician, AI/ML Engineer, and Researcher** focused on building intelligent systems that solve real-world problems.
+I'm a **Data Scientist, Statistician, AI/ML Engineer, and Researcher** focused on building intelligent systems that solve real-world problems. I currently work as an ICT / Data Officer at a regulated microfinance institution, where I own data integrity, ETL, reporting and internal tooling on top of a core banking system.
 
 My expertise spans across:
 
-- 🤖 Large Language Models (LLMs) & NLP
-- 🔍 Retrieval-Augmented Generation (RAG)
+- 🤖 LLMs, Agentic AI & NLP
+- 🔍 Retrieval-Augmented Generation (RAG) & LLM Evaluation
 - 📊 Statistical Modelling, Inference & Predictive Analytics
 - 📈 Monitoring & Evaluation (M&E) Systems
 - 🧮 Econometrics, Survival Analysis & Biostatistics
 - 🌐 Full-Stack AI-Powered Development
 - ☁️ Cloud & AI Infrastructure
 
-I enjoy developing scalable AI powered applications especially for **low-resource environments**  and turning complex data into actionable, decision-ready insights.
+I enjoy developing scalable AI-powered applications, especially for **low-resource environments**, and turning complex data into actionable, decision-ready insights.
 
 ---
 
 ## 🧠 AI & Machine Learning
 
-### 🔬 LLMs & NLP
-![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+### 🔬 LLMs & Agentic AI
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4B8BF5?style=flat-square&logoColor=white)
-![Falcon](https://img.shields.io/badge/Falcon-1B1F2A?style=flat-square&logoColor=white)
-![T5](https://img.shields.io/badge/T5-FF6F00?style=flat-square&logo=google&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=google&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6D28D9?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+- Tool use / function calling and multi-step agent workflows
+- **Model Context Protocol (MCP)** servers and clients to connect LLMs to real systems
+- Structured outputs with schema validation (Pydantic)
+- Local and open-weight inference with Ollama and vLLM
 
 ### ⚡ Fine-Tuning & Optimization
 ![LoRA](https://img.shields.io/badge/LoRA-8B5CF6?style=flat-square)
 ![QLoRA](https://img.shields.io/badge/QLoRA-7C3AED?style=flat-square)
 ![PEFT](https://img.shields.io/badge/PEFT-6D28D9?style=flat-square)
-![RLHF](https://img.shields.io/badge/RLHF-5B21B6?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4C1D95?style=flat-square)
+![DPO](https://img.shields.io/badge/DPO-5B21B6?style=flat-square)
+![Quantization](https://img.shields.io/badge/Quantization-4C1D95?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-3B0764?style=flat-square)
 
-### 🔍 RAG & Vector Databases
+### 🔍 RAG, Agents & Vector Databases
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F766E?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square)
-![Weaviate](https://img.shields.io/badge/Weaviate-00B37E?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+- Hybrid retrieval (BM25 + dense), re-ranking and citation-grounded answers
+- Chunking strategies, embedding pipelines and feature stores
 
 ### 📚 Dataset Engineering
 - Data preprocessing & cleaning pipelines
-- Embedding pipelines & feature stores
 - Data annotation & labelling workflows
+- Synthetic data generation for evaluation and fine-tuning
 - Speech-to-text system integration
 
 ### 📏 Evaluation & Benchmarking
-- BLEU, ROUGE, METEOR (NLP generation quality)
-- Perplexity & cross-entropy scoring
-- Bias detection & fairness testing
+- LLM-as-judge and golden-dataset regression testing
+- Retrieval metrics (recall@k, MRR) and faithfulness / groundedness checks
+- BLEU, ROUGE, METEOR, perplexity for generation quality
+- Bias detection, fairness testing and guardrails
 - Model benchmarking across tasks & domains
 
 ---
 
 ## 📊 Statistics & Data Analytics
-
-> *"Without data you're just another person with an opinion." — W. Edwards Deming*
 
 ### 🧮 Statistical Foundations
 ![Descriptive Stats](https://img.shields.io/badge/Descriptive_Statistics-0EA5E9?style=flat-square)
@@ -111,8 +123,8 @@ I enjoy developing scalable AI powered applications especially for **low-resourc
 - Poisson & negative binomial regression (count data)
 - Generalized Additive Models (GAMs)
 - Mixed-effects / multilevel / hierarchical models
+- Bayesian regression with PyMC and Stan
 - Structural Equation Modelling (SEM) & path analysis
-- Instrumental Variables (IV) & causal inference frameworks
 
 ### ⏱️ Time Series & Forecasting
 ![ARIMA](https://img.shields.io/badge/ARIMA-F59E0B?style=flat-square)
@@ -123,12 +135,12 @@ I enjoy developing scalable AI powered applications especially for **low-resourc
 
 - ARIMA, SARIMA, ARIMAX, VAR (multivariate time series)
 - Exponential smoothing: Holt-Winters, ETS models
-- Facebook Prophet for seasonal decomposition & forecasting
-- LSTM & temporal convolutional networks (TCN)
+- Prophet for seasonal decomposition & forecasting
+- LSTM, temporal convolutional networks (TCN) and modern forecasting libraries
 - Stationarity testing: ADF, KPSS, PP tests
 - Cointegration analysis & error correction models (ECM)
 - Granger causality testing
-- Cross-validation for time series (rolling / expanding window)
+- Time-series cross-validation (rolling / expanding window)
 
 ### 🏥 Biostatistics & Epidemiology
 ![Survival Analysis](https://img.shields.io/badge/Survival_Analysis-EF4444?style=flat-square)
@@ -162,11 +174,11 @@ I enjoy developing scalable AI powered applications especially for **low-resourc
 ![PCA](https://img.shields.io/badge/PCA-8B5CF6?style=flat-square)
 ![Factor Analysis](https://img.shields.io/badge/Factor_Analysis-7C3AED?style=flat-square)
 ![Cluster Analysis](https://img.shields.io/badge/Cluster_Analysis-6D28D9?style=flat-square)
-![MDS](https://img.shields.io/badge/MDS-5B21B6?style=flat-square)
+![UMAP](https://img.shields.io/badge/UMAP-5B21B6?style=flat-square)
 
 - Principal Component Analysis (PCA) & factor analysis
 - Canonical Correlation Analysis (CCA)
-- Cluster analysis: K-Means, DBSCAN, hierarchical clustering
+- Cluster analysis: K-Means, DBSCAN, HDBSCAN, hierarchical clustering
 - UMAP, t-SNE for high-dimensional visualization
 - Discriminant analysis (LDA, QDA)
 - Correspondence analysis for categorical data
@@ -176,22 +188,23 @@ I enjoy developing scalable AI powered applications especially for **low-resourc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-0530AD?style=flat-square&logo=ibm&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A476F?style=flat-square)
-![SAS](https://img.shields.io/badge/SAS-0063A3?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-**Python statistical libraries:**
+**Python data & statistics libraries:**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-3B4D98?style=flat-square)
-![Pingouin](https://img.shields.io/badge/Pingouin-6366F1?style=flat-square)
+![PyMC](https://img.shields.io/badge/PyMC-2D5BA8?style=flat-square)
 ![Lifelines](https://img.shields.io/badge/Lifelines-EF4444?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 ---
 
@@ -202,18 +215,19 @@ I enjoy developing scalable AI powered applications especially for **low-resourc
 - Time Series Forecasting & demand modelling
 - Anomaly Detection & outlier analysis
 - Decision Intelligence Systems
+- ETL/ELT, reconciliation & data quality assurance
 - Monitoring & Evaluation Dashboards
 - KPI Tracking, Reporting & data storytelling
 
 ### ML Frameworks
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
 ![LightGBM](https://img.shields.io/badge/LightGBM-00897B?style=flat-square)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
-![Prophet](https://img.shields.io/badge/Prophet-0080FF?style=flat-square)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ### 📋 M&E & Program Evaluation
 - Theory of Change (ToC) & results frameworks
@@ -223,7 +237,7 @@ I enjoy developing scalable AI powered applications especially for **low-resourc
 - Baseline, midline & endline survey design
 - Participatory data collection & ODK / KoboToolbox systems
 - Impact evaluation: RCTs, quasi-experimental designs
-- Donor reporting: USAID, UNICEF, WHO, EU, DFID standards
+- Donor reporting standards (USAID, UNICEF, WHO, EU)
 
 ---
 
@@ -231,12 +245,12 @@ I enjoy developing scalable AI powered applications especially for **low-resourc
 
 ### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -252,17 +266,17 @@ I enjoy developing scalable AI powered applications especially for **low-resourc
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
@@ -270,14 +284,14 @@ I enjoy developing scalable AI powered applications especially for **low-resourc
 ## 🎯 Current Focus
 
 ```text
-🔬  Fine-tuning domain-specific LLMs for specialized tasks
-🔍  Advanced RAG: hybrid retrieval, re-ranking, agentic pipelines
+🤖  Agentic AI systems and MCP integrations with real-world data sources
+🔍  Production RAG: hybrid retrieval, re-ranking, evals and observability
+🔬  Fine-tuning small domain-specific LLMs for specialized tasks
+🏦  Automating finance operations: reconciliation, EOD/COB checks, portfolio monitoring
 🌍  AI & statistical modelling for low-resource communities
 📊  Intelligent M&E dashboards with causal inference integration
-⚡  Scalable, production-grade backend AI systems
-🤖  AI-powered automation & decision intelligence
+⚡  Scalable, production-grade backend AI systems on AWS
 🧮  Bayesian methods & probabilistic programming for impact evaluation
-📈  Econometric impact evaluation for development programs
 ```
 
 ---
@@ -311,7 +325,7 @@ I enjoy developing scalable AI powered applications especially for **low-resourc
 
 ## ⚡ Fun Fact
 
-I enjoy transforming complex real-world problems — whether a disease outbreak, an economic shock, or a humanitarian crisis — into intelligent, data-driven systems that improve decision-making and create measurable impact.
+I enjoy transforming complex real-world problems, whether a disease outbreak, an economic shock, or a humanitarian crisis, into intelligent, data-driven systems that improve decision-making and create measurable impact.
 
 ---
 
