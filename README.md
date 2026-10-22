@@ -299,7 +299,7 @@ I enjoy developing scalable AI-powered applications, especially for **low-resour
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wakisa-chihana&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wakisa-chihana&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&commits_year=2026" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakisa-chihana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
